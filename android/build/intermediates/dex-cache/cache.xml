@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/raj/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_6bc624700789d84beafa94cfe5e1f6be3dba9025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f44b8790029c27891004f787aa84f522e2f84a60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_8db098c9fb892acc99e50d9f47312c10224cc636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ec8fb96b1262ce2453b9fe8a8b0d63d0d9a6bf35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_2ec8f150163faa5ad782b8c73a1dce8fcc27158e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_98cbc41769c0e33dbef44d7d1c70482a9f5d8fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_88a60af4428ecba70ae360e39ac9b77f4486659c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_cfee560e5b7f5f74e33cbb06f2e43c07c858fe3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_185e065f0efb093ffa940d07b53266b3bfd4c0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_f5920b8974d923a768f55c771aeea0b88468358d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/VoiceNative/react-native-voice/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7effc81e586da815c5750c5f64b1c7f55df57ec1">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/VoiceNative-react-native-voice-unspecified_05c3f2fa9ba055d648e40f538efb604408cc469e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_06b69acd9c2790578bbc04ea4be346edf130230d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_0279cb52af8fdb9798a9581acc3b45a998058a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_f2e131d599c1d531589c99189ef4ace6ce6bde67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_37541c65bbd177be9aba33f16e9de1345625ba25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_b0f4dd4d8cec7f340dc6654738d5ae8c62954323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_4874e683ffc249d60af1289a782c48c645aa69ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_372daf2853f05879c61bd0c5cb4525c5ac1eabdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a13b199dffc1f3beb35a52cf010f8aac181a45c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_f0a4bd2a0a5275a1deea8bbf2ea50472b28ad45b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_cd8e189bba2da82c1a8daa0a38648e7fb1877c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/raj/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/raj/Documents/code/React-Native-Voice-Template/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_41c8aea97231a1e3f07fe33462adfc171c3aeb01.jar" />
+    </item>
+
+</items>
